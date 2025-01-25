@@ -2,7 +2,7 @@
 Welcome to Stormed Out! This houses the writings of the patrons and developers of Storm Networks. In order to submit something you wrote, or if you have a suggestion of something we should write, or a question to ask us, contact us at stormed.out.ask@gmail.com  
 
 # **__THIS IS NOT DONE YET__**
-If it seems like there is no content, it's because there isn't. Check back in a few hours, or tomorrow, and hopefully you will be able to acess the creator page, questions, and blogs. Hang tight! 
+If it seems like there is no content, it's because there isn't. I am a one man band, and I can't do things immediatly. Check back in a few hours, or tomorrow, and hopefully you will be able to acess the creator page, questions, and blogs. Hang tight! 
 
 ## Navigating the site
 The site is organized into Creators, Questions and Answers, and Blogs.
